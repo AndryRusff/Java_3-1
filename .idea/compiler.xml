@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Radio" />
         <module name="OOP1" />
+        <module name="Radio (ready)" />
+        <module name="OOP2" />
       </profile>
     </annotationProcessing>
   </component>
